@@ -1,0 +1,44 @@
+
+FAILED CASES IN AUTOMATED REGRESSION:
+
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
+MODULO: Web --> ESCENARIO: El usuario selecciona una fecha y mes dentro del rango permitido
